@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 791da07b91297224299713f41efbce79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flowerSprite: {fileID: 1537485445689439043, guid: bc39cb8842344f7488658637ef6c401a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
